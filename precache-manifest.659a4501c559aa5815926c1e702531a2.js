@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10e452b096cc89f40af7d2943fc4c6ca",
+    "revision": "dacbb6628c3d30a71cba612fe7b93666",
     "url": "/leo-pictograms/index.html"
   },
   {
