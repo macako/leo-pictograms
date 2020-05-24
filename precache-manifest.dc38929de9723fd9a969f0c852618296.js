@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dacbb6628c3d30a71cba612fe7b93666",
+    "revision": "2222bdc23799d3826393e4bf86ba3b1e",
     "url": "/leo-pictograms/index.html"
   },
   {
-    "revision": "f7895806a25b3378054b",
-    "url": "/leo-pictograms/static/css/main.8157d27f.chunk.css"
+    "revision": "525cc6ecc7bcdb4145cf",
+    "url": "/leo-pictograms/static/css/main.5b47421b.chunk.css"
   },
   {
     "revision": "271bd62d64ff63d112e3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leo-pictograms/static/js/2.51db25d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7895806a25b3378054b",
-    "url": "/leo-pictograms/static/js/main.4b95457e.chunk.js"
+    "revision": "525cc6ecc7bcdb4145cf",
+    "url": "/leo-pictograms/static/js/main.098fe052.chunk.js"
   },
   {
     "revision": "c056675359016fd4bb79",
