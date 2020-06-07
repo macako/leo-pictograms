@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/leo-pictograms/static/css/main.5b47421b.chunk.css",
-    "main.js": "/leo-pictograms/static/js/main.4d0b2c9f.chunk.js",
-    "main.js.map": "/leo-pictograms/static/js/main.4d0b2c9f.chunk.js.map",
+    "main.css": "/leo-pictograms/static/css/main.467dcdbb.chunk.css",
+    "main.js": "/leo-pictograms/static/js/main.4517ae16.chunk.js",
+    "main.js.map": "/leo-pictograms/static/js/main.4517ae16.chunk.js.map",
     "runtime-main.js": "/leo-pictograms/static/js/runtime-main.3c50f16c.js",
     "runtime-main.js.map": "/leo-pictograms/static/js/runtime-main.3c50f16c.js.map",
     "static/js/2.51db25d7.chunk.js": "/leo-pictograms/static/js/2.51db25d7.chunk.js",
     "static/js/2.51db25d7.chunk.js.map": "/leo-pictograms/static/js/2.51db25d7.chunk.js.map",
     "index.html": "/leo-pictograms/index.html",
-    "precache-manifest.a2ffd1644c71e03adc5d2d3a7c9b82dd.js": "/leo-pictograms/precache-manifest.a2ffd1644c71e03adc5d2d3a7c9b82dd.js",
+    "precache-manifest.072cf8cc35ce18ade1ab15b1ba861e31.js": "/leo-pictograms/precache-manifest.072cf8cc35ce18ade1ab15b1ba861e31.js",
     "service-worker.js": "/leo-pictograms/service-worker.js",
-    "static/css/main.5b47421b.chunk.css.map": "/leo-pictograms/static/css/main.5b47421b.chunk.css.map",
+    "static/css/main.467dcdbb.chunk.css.map": "/leo-pictograms/static/css/main.467dcdbb.chunk.css.map",
     "static/js/2.51db25d7.chunk.js.LICENSE.txt": "/leo-pictograms/static/js/2.51db25d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3c50f16c.js",
     "static/js/2.51db25d7.chunk.js",
-    "static/css/main.5b47421b.chunk.css",
-    "static/js/main.4d0b2c9f.chunk.js"
+    "static/css/main.467dcdbb.chunk.css",
+    "static/js/main.4517ae16.chunk.js"
   ]
 }
