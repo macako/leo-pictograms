@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91ed7b768cfe179f434a02a7b8b8d940",
+    "revision": "b91a9b1744f68b95e4cf0c31a6050a88",
     "url": "/leo-pictograms/index.html"
   },
   {
-    "revision": "1415b9517c8678e6afb4",
-    "url": "/leo-pictograms/static/css/2.aa77406a.chunk.css"
+    "revision": "5dd8b64f22a70059ae45",
+    "url": "/leo-pictograms/static/css/2.9cceb462.chunk.css"
   },
   {
-    "revision": "9473f94c0ab0477130e4",
-    "url": "/leo-pictograms/static/css/main.04092767.chunk.css"
+    "revision": "8e8ba48497fcc38f13de",
+    "url": "/leo-pictograms/static/css/main.1f910258.chunk.css"
   },
   {
-    "revision": "1415b9517c8678e6afb4",
+    "revision": "5dd8b64f22a70059ae45",
     "url": "/leo-pictograms/static/js/2.bf4ed5ba.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leo-pictograms/static/js/2.bf4ed5ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9473f94c0ab0477130e4",
-    "url": "/leo-pictograms/static/js/main.52dad19c.chunk.js"
+    "revision": "8e8ba48497fcc38f13de",
+    "url": "/leo-pictograms/static/js/main.76232712.chunk.js"
   },
   {
     "revision": "c056675359016fd4bb79",
